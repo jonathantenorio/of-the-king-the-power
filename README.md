@@ -1,6 +1,6 @@
 # Of The King The Power 🎭
 
-Uma biblioteca TypeScript para gerar textos na "língua dos anjos" dos neopentecostais, perfeita para substituir o Lorem Ipsum com um toque de humor celestial! ✨
+Uma biblioteca TypeScript para gerar textos na "língua dos anjos" do mini pastor, perfeita para substituir o Lorem Ipsum com um toque de humor celestial! ✨
 
 ## 🚀 Instalação
 
